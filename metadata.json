@@ -1,0 +1,6 @@
+{
+  "name": "Jinnah Mobile's",
+  "description": "Premium mobile phone and accessories store in Khichi Wala, Pakistan. Shop smartphones, chargers, covers, earbuds, and accessories with instant WhatsApp ordering and store visits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
